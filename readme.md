@@ -1,6 +1,6 @@
 # Добрый день!
 
-![Фото]([https://vesti42.ru/wp-content/uploads/2023/08/anime.jpg](https://vesti42.ru/wp-content/uploads/2023/08/anime.jpg)
+![Фото]([https://vesti42.ru/wp-content/uploads/2023/08/anime.jpg](https://vesti42.ru/wp-content/uploads/2023/08/anime.jpg))
 
 Меня зовут Тихонюк Кристина. Я являюсь  студенткой Государственного Университета Молдовы, а так же любительницей Веб-программирования. В свободное время я также увлекаюсь кулинарией, чтением книг и путешествиями.
 
